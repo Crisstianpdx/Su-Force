@@ -2,7 +2,7 @@
 
 #Check arguments
 if [ "$#" -lt 2 ]; then
-    echo "Uso: $0 <user_name> <dictionary.txt> [subprocceses_number]"
+    echo "Use: $0 <user_name> <dictionary.txt> [subprocceses_number]"
     exit 1
 fi
 
