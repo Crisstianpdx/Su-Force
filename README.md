@@ -11,4 +11,4 @@ En caso de querer trabajar con los subprocesos, solo debes indicarle como tercer
 ```bash
 bash suforce.sh fred dictionary.txt 5
 ```
-**[!] No uses mas de 10 subprocesos/hilos ya que el programa puede dar falsos positivos o fallar.**
+>**[!] Recomiendo no usar mas de 10 subprocesos ya que el programa puede dar falsos positivos o fallar.**
